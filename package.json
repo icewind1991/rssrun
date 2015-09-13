@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "exec": "^0.2.1",
+    "interpolate": "^0.1.0",
+    "node-rss-emitter": "^0.0.2"
+  }
+}

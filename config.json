@@ -1,0 +1,5 @@
+{
+	"feed": "http://example.com/feed",
+	"run": "youtube-dl \"{link}\"",
+	"interval": 900
+}
